@@ -15,7 +15,7 @@
 - 👨‍💻 Soy ingeniero de sistemas
 - 📙 Titulado de inglés nivel B2.
 - 🛠️ 1 año y medio de experiencia como desarrollador frontend
-- ⭐️ Tengo conocimientos de fullstack aunque me encanta más front
+- ⭐️ 1 año como backend con Nodejs y estos últimos meses a tope con .NET Core
 - 📊 Trabajo hace años haciendo SEO para youtube y blogs
 
 <br/><br/>

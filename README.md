@@ -40,6 +40,7 @@
 <p>
 <img src="https://draquioportfolio.vercel.app/tecnologies/php.svg" alt="PHP" width="40" height="40"/>
 <img src="https://draquioportfolio.vercel.app/tecnologies/node-js.svg" alt="NodeJS" width="40" height="40"/>
+<img src="https://draquioportfolio.vercel.app/tecnologies/netcore.svg" alt=".NET core" width="40" height="40"/>
 <img src="https://draquioportfolio.vercel.app/tecnologies/python.svg" alt="Python" width="40" height="40"/>
 </p>
 

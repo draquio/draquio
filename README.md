@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D4E16AQGd9f_q-oI7eQ/profile-displaybackgroundimage-shrink_350_1400/0/1701664870509?e=1720051200&v=beta&t=2PPS7A6MCx_mDGJqbJ3XukCuQLU6a-qQUp8i6A01awg)
+![](https://media.licdn.com/dms/image/D4E16AQGd9f_q-oI7eQ/profile-displaybackgroundimage-shrink_350_1400/0/1701664870509?e=1725494400&v=beta&t=yiMdZh5J4jO7T8xTjgcaA25Cb-irGEMXzZSdkPv6RzQ)
 # Bienvenido, 😁 soy Sergio Mercado
 ### Ingeniero de Sistemas y Desarrollador web 🔥
 [![Linkedin](https://img.shields.io/badge/-Sergio%20Mercado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-mercado-galarza-4a4b42274/)](https://www.linkedin.com/in/sergio-mercado-galarza-4a4b42274/) [![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fdraquioportfolio.vercel.app%2F&up_message=Portfolio&up_color=%23472562)](https://draquioportfolio.vercel.app/) ![](https://komarev.com/ghpvc/?username=draquio&color=blueviolet)

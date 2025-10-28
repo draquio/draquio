@@ -19,6 +19,8 @@
 
 <br/><br/>
 
+### 🔧 Tecnologías que manejo
+
 #### 🔥 Backend:
 <p>
 <img src="https://draquioportfolio.vercel.app/tecnologies/netcore.svg" alt=".NET core" width="40" height="40"/>
@@ -27,8 +29,6 @@
 <img src="https://draquioportfolio.vercel.app/tecnologies/python.svg" alt="Python" width="40" height="40"/>
 </p>
 
-
-### 🔧 Tecnologías que manejo
 #### ⭐️ Frontend:
 <p>
 <img src="https://draquioportfolio.vercel.app/tecnologies/html.svg" alt="html" width="40" height=40"/>
@@ -63,4 +63,5 @@
 - [Linkedin](https://www.linkedin.com/in/sergio-mercado-galarza-4a4b42274)
 - [Portfolio](https://draquioportfolio.vercel.app)
 - [draquio@gmail.com](mailto:draquio@gmail.com)
+
 

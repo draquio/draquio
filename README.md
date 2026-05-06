@@ -42,7 +42,7 @@
 ### Contáctame
 
 - [Linkedin](https://www.linkedin.com/in/sergio-mercado-galarza-4a4b42274)
-- [Portfolio](https://draquioportfolio.vercel.app)
+- [Portfolio](https://sergiomercado.dev/)
 - [draquio@gmail.com](mailto:draquio@gmail.com)
 
 

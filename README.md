@@ -14,7 +14,7 @@
 ### 📕 Un poco sobre mi:
 - 👨‍💻 Soy Ingeniero de Sistemas
 - 📙 Titulado de inglés nivel B2.
-- ⭐️ Casi 3 años como backend developer con .NET Core y NodeJS
+- ⭐️ 3 años como backend developer con .NET Core y NodeJS
 - 📊 Entusiasta por aprender nuevas cosas
 
 <br/><br/>

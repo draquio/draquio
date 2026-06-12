@@ -27,7 +27,7 @@
 #### ⭐️ Frontend:
 - React, NextJs, Typescript y Angular
 
-### ☁️ Devops / Cloud
+#### ☁️ Devops / Cloud
 - Docker, Docker Compose, GitHub Actions, CI/CD, Azure y VPS
 
 #### 🔨 Testing
